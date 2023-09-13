@@ -1,0 +1,122 @@
+commit d66dd6007eaa54850b1e70914e380dbf6646a1fa
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Tue Sep 12 14:42:42 2023 -0300
+
+    agregando parrafos lorem
+
+commit e97c17da593bf26d2dac1854763435bc59b3828d
+Merge: ddf60bc 4de90d5
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Mon Sep 11 18:52:29 2023 -0300
+
+    resolviendo conflictos
+
+commit ddf60bcd8b5c0ce0681f319e931a0fbcbe1d94df
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Mon Sep 11 17:04:42 2023 -0300
+
+    agregando estaciones del año con fecha de inicio
+
+commit 4de90d5a4a8cb08ff223447e0062316015324492
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Mon Sep 11 17:04:42 2023 -0300
+
+    agregando las estaciones del año
+
+commit f5efc295cd117c6cc13808a95ed30a623fdf1904
+Merge: df00363 afb78df
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Fri Sep 8 16:11:17 2023 -0300
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit afb78df8adeceb8351b9b1c64cbdd215dc8ea098
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Fri Sep 8 16:05:19 2023 -0300
+
+    agregando index.js al index.html
+
+commit df00363cea65e6f9fce681ebb8f2d5d9ee16683b
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Fri Sep 8 16:00:10 2023 -0300
+
+    agregando style.css al index.html
+
+commit f4abe81903967bac0e3414c4cbe32e0ce5853fff
+Merge: ee541a7 391008f
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Fri Sep 8 15:37:20 2023 -0300
+
+    Merge branch 'js'
+
+commit 391008f12e25db5f8203741209ec10017f946761
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Tue Sep 5 15:34:03 2023 -0300
+
+     creando index.js
+
+commit ee541a7d24e19705d1b299d3a619c6cff4bb9a03
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Tue Sep 5 15:17:26 2023 -0300
+
+    creando style.css
+
+commit 716e238664cd461a6d4ce79cedeeb6b5a1118e00
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Tue Sep 5 15:11:51 2023 -0300
+
+    creando index html
+
+commit 61c7e10588c355f0203cb4d1a29f9d5184e2ec59
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Sun Sep 3 14:05:30 2023 -0300
+
+    ignorando archivos .exe
+
+commit bd958e5a91db715474bafdf9f060631e8fb5fba6
+Author: choriuss <143532352+choriuss@users.noreply.github.com>
+Date:   Thu Aug 31 17:52:49 2023 -0300
+
+    creando licencia de repositorio
+
+commit ee553f53811636435b776d403fa3700d750fc698
+Author: choriuss <143532352+choriuss@users.noreply.github.com>
+Date:   Thu Aug 31 17:46:24 2023 -0300
+
+    Delete license.txt
+
+commit 317ee2730376c0a38e64c98fc39026a231e5f372
+Author: choriuss <143532352+choriuss@users.noreply.github.com>
+Date:   Thu Aug 31 17:45:39 2023 -0300
+
+    Delete LICENSE
+
+commit 4ea623566956781898994507b34c9af25ab69f30
+Author: choriuss <143532352+choriuss@users.noreply.github.com>
+Date:   Thu Aug 31 17:43:20 2023 -0300
+
+    Create LICENSE
+
+commit e9a605c2a283d3ca7dc53a33bc315d66ad04ff08
+Author: choriuss <143532352+choriuss@users.noreply.github.com>
+Date:   Thu Aug 31 17:41:20 2023 -0300
+
+    Create license.txt
+
+commit d2ceb8a522e396cc674753edec993e3b05464538
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Thu Aug 31 17:32:37 2023 -0300
+
+    agregando mas contenido al README
+
+commit 700d23a96dbdd03d7a63b7f50e7e6ecda8e42c1b
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Thu Aug 31 17:20:25 2023 -0300
+
+    agregando contenido inicial al README
+
+commit 2c940eb1703cf8515e67597c333e701c4a7b52da
+Author: Rodrigo Aldana <choripan24000@gmail.com>
+Date:   Thu Aug 31 17:16:13 2023 -0300
+
+    primer commit 😁
